@@ -9,6 +9,7 @@ API Gateway
 SNS
 S3
 CloudFront
+Certificate Manager
 Route 53
 CodeBuild
 CodePipeline
