@@ -1,3 +1,14 @@
 # Our Portfolio
 Our Serverless and Analytics Portfolio. Created by Johnathan Brooks and Allison
 Presberg. Projects implement Python, Amazon Web Services(AWS), and React.js.
+
+## AWS Services Used
+
+Lambda
+API Gateway
+SNS
+S3
+CloudFront
+Route 53
+CodeBuild
+CodePipeline
